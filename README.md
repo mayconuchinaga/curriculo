@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/favicon/favicon.ico">
-    <title>CURRICULO KWON SOONYOUNG</title>
 </head>
 <h3>Curriculum</h3>
 <body>
